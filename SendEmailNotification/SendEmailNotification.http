@@ -1,0 +1,6 @@
+@SendEmailNotification_HostAddress = http://localhost:5149
+
+GET {{SendEmailNotification_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
